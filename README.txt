@@ -43,3 +43,7 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+Updated 05MAR23 - Mandell
+
+		updated the index and created development enviornment on laptop
